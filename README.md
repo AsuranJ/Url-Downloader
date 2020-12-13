@@ -20,7 +20,7 @@ Telethon version of FileAssistant. Look at the [PHP version](https://github.com/
 ## Install
 ### Easy:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsuranJ/Url-Downloader)
 ### Hard:
 
 ```
